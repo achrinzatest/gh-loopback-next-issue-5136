@@ -1,0 +1,19 @@
+{
+  "name": "loopback-test-mixins-barebones",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rifa Achrinza",
+  "license": "MIT",
+  "dependencies": {
+    "@loopback/core": "^2.3.0",
+    "@loopback/rest": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.0"
+  }
+}
